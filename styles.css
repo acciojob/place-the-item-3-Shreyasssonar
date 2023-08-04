@@ -3,13 +3,5 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between; 
-}
-
-
-.item {
-  width: calc(33.33% - 10px); 
-  background-color: #f0f0f0;
-  padding: 10px;
-  box-sizing: border-box;
-  margin-bottom: 10px;
+	align-items: flex-start;
 }
